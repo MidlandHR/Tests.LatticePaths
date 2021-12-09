@@ -10,3 +10,4 @@ Write a program that can tell you the number of routes for an NxM size grid.
 | 2,2	| 6	 |
 | 4,4   | 16 |
 | 20,20	| 	 |
+| 6,4   |    |
